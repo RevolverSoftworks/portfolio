@@ -26,7 +26,7 @@ My [only released TF2 Map.](https://steamcommunity.com/sharedfiles/filedetails/?
 
 ### CTF_Dominance
 
-An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ctf_2fort, I wanted to change the playstyle of the condensed, close quatered ctf layout
+An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ctf_2fort, I wanted to change the playstyle of the condensed, close quartered ctf layout
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominanceoutside.jpeg?raw=true)
 
