@@ -45,9 +45,11 @@ Project's still under development so don't expect it to be out anytime soon
 
 97% of the art in this project was made by myself
 
-embed_video(https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/SFTMenu.mp4)
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/SFTMenu.mp4)
 
-embed_video(https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/SFTDesert.mp4)
+https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/SFTMenu.mp4
+
+https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/SFTDesert.mp4
 
 ### Bragging Time
 
