@@ -1,11 +1,11 @@
 # -Welcome!-
 
-My name is Jack, andI've decided to compile all of my projects from game engines into a nifty little collection for anyone to see!
+My name is Jack, and I've decided to compile all of my projects from game engines I've worked with into a nifty little collection for anyone to see!
 
 Feel free to take a look around. Feedback of any kind is greatly appreciated.
 
 
-## Source Engine
+# Source Engine
 
 ## Garry's Mod
 
@@ -35,7 +35,7 @@ An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ct
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominancebluintel1.jpg?raw=true)
 
 
-## GameMaker Studio II
+# GameMaker Studio II
 
 ### Six Feet Thunder: Genesis (No, not based on the CoTN song i've heard that reference so much it hurts)
 
@@ -45,9 +45,9 @@ Project's still under development so don't expect it to be out anytime soon
 
 97% of the art in this project was made by myself
 
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://user-images.githubusercontent.com/42077029/121952361-0765ef80-cd54-11eb-9864-115ac3575785.mp4)
+[![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/menu.png)](https://user-images.githubusercontent.com/42077029/121952361-0765ef80-cd54-11eb-9864-115ac3575785.mp4)
 
-[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4)
+[![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/desert.png)](https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4)
 
 ### Bragging Time
 
@@ -58,7 +58,7 @@ You can [try it out Here](https://www.dropbox.com/s/yqc7xw7vbq0nyrr/Bragging%20T
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/braggingtime.jpg?raw=true)
 
 
-## Source Engine 2: Electric Boogaloo
+# Source Engine 2: Electric Boogaloo
 
 ### Conservatory
 
@@ -79,7 +79,7 @@ My most recent project, based on a real location near where I live, i made it wi
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/waitingroom1.png?raw=true)
 
 
-## Unreal 4
+# Unreal 4
 
 ### Tower
 
