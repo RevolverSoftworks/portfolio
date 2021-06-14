@@ -1,6 +1,6 @@
 # -Welcome!-
 
-My name is Jack, and I've decided to compile all of my projects from game engines I've worked with into a nifty little collection for anyone to see!
+I've decided to compile all of my projects from game engines I've worked with into a nifty little collection for anyone to see!
 
 Feel free to take a look around. Feedback of any kind is greatly appreciated.
 
