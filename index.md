@@ -45,9 +45,9 @@ Project's still under development so don't expect it to be out anytime soon
 
 97% of the art in this project was made by myself
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4)
- 
-https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4
+[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://user-images.githubusercontent.com/42077029/121952361-0765ef80-cd54-11eb-9864-115ac3575785.mp4)
+
+[![](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4)
 
 ### Bragging Time
 
