@@ -34,7 +34,7 @@ An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ct
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominancebluintel1.jpg?raw=true)
 
-#
+
 ## GameMaker Studio II
 
 ### Six Feet Thunder: Genesis (No, not based on the CoTN song i've heard that reference so much it hurts)
@@ -57,7 +57,7 @@ You can [try it out Here](https://www.dropbox.com/s/yqc7xw7vbq0nyrr/Bragging%20T
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/braggingtime.jpg?raw=true)
 
-#
+
 ## Source Engine 2: Electric Boogaloo
 
 ### Conservatory
@@ -78,7 +78,7 @@ My most recent project, based on a real location near where I live, i made it wi
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/waitingroom1.png?raw=true)
 
-#
+
 ## Unreal 4
 
 ### Tower
