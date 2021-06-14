@@ -28,25 +28,27 @@ My [only released TF2 Map.](https://steamcommunity.com/sharedfiles/filedetails/?
 
 An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ctf_2fort, I wanted to change the playstyle of the condensed, close quatered ctf layout
 
-![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominanceredintel1.jpg?raw=true)
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominanceoutside.jpeg?raw=true)
 
-![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominanceredintel.jpg?raw=true)
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominanceredintel1.jpg?raw=true)
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominancebluintel1.jpg?raw=true)
 
 
 # GameMaker Studio II
 
-### Six Feet Thunder: Genesis (No, not based on the CoTN song i've heard that reference so much it hurts)
+### Six Feet Thunder - Genesis
+
+(No, not based on the CoTN song i've heard that reference so much it hurts)
 
 An idea I had one day about making a Platformer/Endless Shooter where you "Euthanize Furries"
 
 Project's still under development so don't expect it to be out anytime soon
 
-97% of the art in this project was made by myself
-
+>menu video
 [![](https://raw.githubusercontent.com/RevolverSoftworks/work/gh-pages/Work/menu.png)](https://user-images.githubusercontent.com/42077029/121952361-0765ef80-cd54-11eb-9864-115ac3575785.mp4)
 
+>gameplay
 [![](https://raw.githubusercontent.com/RevolverSoftworks/work/gh-pages/Work/desert.png)](https://user-images.githubusercontent.com/42077029/121943654-b51fd100-cd49-11eb-8f1f-e71d71fe9b3c.mp4)
 
 ### Bragging Time
