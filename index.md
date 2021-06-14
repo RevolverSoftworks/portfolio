@@ -1,6 +1,6 @@
-# -Portfolio-
+# -Welcome!-
 
-Welcome! My name is Jack, and With 6+ Years of using the Hammer editor under my belt, (most of which i regret and alot of it not even used fully) I've decided to compile all of my projects from Source & other engines into a nifty little portfolio for anyone to see!
+My name is Jack, and With 6+ Years of using the Hammer editor under my belt, (most of which i regret and alot of it not even used fully) I've decided to compile all of my projects from Source & other engines into a nifty little portfolio for anyone to see!
 
 Feel free to take a look around. Feedback of any kind is greatly appreciated.
 
