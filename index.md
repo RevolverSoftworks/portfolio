@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# -Portfolio-
 
-You can use the [editor on GitHub](https://github.com/RevolverSoftworks/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This is a nifty little collection of projects of mine!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to take a look. Feedback is greatly appreciated.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#
+## The Source Engine
 
-```markdown
-Syntax highlighted code block
+who the fuck still uses source like what the f-
+## Garry's Mod!
+prison environment test
+![](https://github.com/RevolverSoftworks/portfolio/blob/gh-pages/Work/prisonoutside.jpg?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+#
+### Team Fortress 2
 
-- Bulleted
-- List
+### Achievement_Idle_2_Floors
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/20200824024628_1.jpg?raw=true)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### CTF_Dominance
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/20210607164648_1.jpg?raw=true)
 
-[Link](url) and ![Image](src)
-```
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/20210607164610_1.jpg?raw=true)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RevolverSoftworks/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#
+## GameMaker Studio II
 
-### Support or Contact
+### Six Feet Thunder: Genesis (no, not based on the crypt song i've heard that reference so much it hurts)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+furry shooter i decided to make as a joke that still isn't finished :(
+<video src="SFTMENU.mp4" width="320" height="200" controls preload></video>
+
+### Bragging Time
+
+An idea I had where you try and get a special screen by testing your luck against a RNG that has the same odds as ***Winning the Fucking Lottery***
+You can try it out Below
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/20210601_015410.jpg?raw=true)
+
+#
+## Source Engine 2: Electric Boogaloo
+
+### conservatry
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/download_2.jpg?raw=true)
+
+### underground tunnels
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/motivate-36.png?raw=true)
+
+### prison port
+
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/E1y6QzSX0AM0vak.jpg?raw=true)
+
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/EdWHnI5WAAEnc0d.jpg?raw=true)
+
+### waiting room
+
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/thbe.png?raw=true)
+
+![](https://github.com/RevolverSoftworks/projects/blob/gh-pages/S2%20Portfolio/image0.jpg?raw=true)
+
+
