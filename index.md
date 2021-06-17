@@ -34,6 +34,17 @@ An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ct
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/dominancebluintel1.jpg?raw=true)
 
+# Blender
+
+### Sword
+
+My first attempt of trying to make a prop for Garry's Mod, It took 3 days of work and I managed to add basic collisions and textures
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/image0.jpg?raw=true)
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/Untitled.png?raw=true)
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/20190803114430_1.jpg?raw=true)
 
 # GameMaker Studio II
 
@@ -41,7 +52,7 @@ An old TF2 Map I worked on for a while. Taking inspiration from ctf_haarp and ct
 
 (No, not based on the CoTN song i've heard that reference so much it hurts)
 
-An idea I had one day about making a Platformer/Endless Shooter where you "Euthanize Furries"
+An project I started one day about making a Platformer/Endless Shooter where you "Euthanize Furries"
 
 Project's still under development so don't expect it to be out anytime soon
 
