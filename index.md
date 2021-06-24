@@ -84,13 +84,25 @@ My first proper S2 project, based on compact underground tunnels, It was a test 
 
 ![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/undergroundtunnel.png?raw=true)
 
-### Waiting Room
+### d1_town_01 Remake
 
-My most recent project, based on a real location near where I live, i made it with scenic and gamemode lobbies in mind (although it probably won't hold up to gamemodes as such)
-![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/waitingroom.jpg?raw=true)
+A remake of the beginning of Half life 2's Ravenholm
 
-![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/waitingroom1.png?raw=true)
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/ravenholm.png?raw=true)
 
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/ravenholm1.png?raw=true)
+
+### de_school Remake
+
+my most recent project, I decided to give the ever so classic de_school a Source 2 makeover, I'd say it looks très bien
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/schooloutside.png?raw=true)
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/schoolcourt.png?raw=true)
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/schoolclass.png?raw=true)
+
+![](https://github.com/RevolverSoftworks/work/blob/gh-pages/Work/schoolmain.jpg?raw=true)
 
 # Unreal 4
 
